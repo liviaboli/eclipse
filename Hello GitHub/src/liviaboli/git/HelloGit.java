@@ -14,6 +14,7 @@ public class HelloGit {
 	 */
 	public static void main(String[] args) {
 		System.out.println("OIIII eu sou o goku seu kuzin");
+		System.out.println("OIIII eu sou o goku seu kuzin");
 
 	}
 
