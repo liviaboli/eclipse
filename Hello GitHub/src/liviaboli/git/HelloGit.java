@@ -13,7 +13,7 @@ public class HelloGit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("OIIII eu sou o goku seu ku");
+		System.out.println("OIIII eu sou o goku seu kuzin");
 
 	}
 
